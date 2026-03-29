@@ -98,7 +98,7 @@ This project is designed to demonstrate real-world data analysis skills for entr
 
 Due to file size limitations on GitHub, the Power BI (.pbix) file is hosted on Google Drive:
 
-👉 [Download PBIX File]([PASTE_YOUR_LINK_HERE](https://drive.google.com/file/d/1-CkZemKqfswX1olvThQJKXnR_Ug9QtDq/view?usp=drive_link))
+👉 [Download PBIX File](https://drive.google.com/file/d/1-CkZemKqfswX1olvThQJKXnR_Ug9QtDq/view?usp=drive_link))
 
 ## 🙌 Author
 Durga Prasad 
